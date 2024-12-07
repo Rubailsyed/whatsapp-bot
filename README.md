@@ -97,7 +97,7 @@ This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com
 |   ✔️   | Forward           | Forwarding msg using jid     |
 |   ✔️   | Compress          | Compresses video             |
 |   ✔️   | Google            | Google reverse image search  |
-|   ✔️   | Upload            | Download from Url            |
+|   ✔️   | Upload            | .       |
 |   ✔️   | Weather           | Shows weather                |
 |   ✔️   | Getjids           | Gets jids of chats           |
 |   ✔️   | Removebg          | Removes background           |
